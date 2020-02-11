@@ -1,0 +1,2 @@
+# tensorflow_cnn
+利用tensorflow实现CNN，完成cifar10数据集中的图片分类任务
